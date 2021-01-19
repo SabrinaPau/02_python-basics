@@ -4,9 +4,10 @@ In this Repository you can find Jupyter Notebooks that you should **work on togt
 
 **Basics:**
 1. Numeric variable types
-2. If-Statement (if, elif, else)
-3. Looping (while)
-4. Strings
+2. Strings 
+3. If-Statement (if, elif, else)
+4. Looping (while)
+
 
 **Data Structures in Python Part 2:**
 1. Lists
