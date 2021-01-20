@@ -2,7 +2,9 @@
 
 In this Repository you can find Jupyter Notebooks that you should **work on togther as Pair-Programmers**.
 
-0. Intro to Jupyter Lab
+Intro to Jupyter Lab
+
+Coding best practices
 
 **Basics:**
 1. Numeric variable types
