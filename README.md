@@ -1,8 +1,7 @@
 # Python Basics
 
-In this Repository you can find Jupyter-Notebooks that you should **work on together as Pair-Programmers**. The notebooks contain repetitions from the preparation repository, but also new content on the required Python basics. Please work on the notebooks in the order listed below: 
-
-[Intro to Jupyter Lab](./Intro_to_Jupyter_Lab.ipynb)
+In this Repository you can find Jupyter-Notebooks that you should **work on together as Pair-Programmers**.
+Please work on the notebooks in the order listed below: 
 
 [Coding best practices](./Coding_best_practices.ipynb)
 
