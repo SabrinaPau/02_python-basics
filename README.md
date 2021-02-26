@@ -1,7 +1,11 @@
 # Python Basics
 
-In this Repository you can find Jupyter-Notebooks that you should **work on together as Pair-Programmers**.
-Please work on the notebooks in the order listed below: 
+In this Repository you can find Jupyter-Notebooks on the Python Basics that you should **work on together as Pair-Programmers**.
+
+## Task
+Before you start, activate your nf_base environment. 
+
+Please work in pairs through all the notebooks in this particular order:
 
 [Coding best practices](./Coding_best_practices.ipynb)
 
@@ -25,5 +29,8 @@ Please work on the notebooks in the order listed below:
 2. [Function definitions](./Functions/2_Function_Definitions.ipynb)
 3. [Calling Functions](./Functions/3_Calling_Functions.ipynb)
 4. [Function challenge](./Functions/4_Functions_Challenge.ipynb)
+
+
+**Keep in mind, you succeed better as a team. There are NO stupid questions! If you already feel comfortable with the concepts, you might even learn more from teaching them!**
 
 
