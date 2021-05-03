@@ -3,7 +3,8 @@
 In this Repository you can find Jupyter-Notebooks on the Python Basics that you should **work on together as Pair-Programmers**.
 
 ## Task
-Before you start, activate your nf_base environment. 
+Fork and clone this repository.  
+Activate your nf_base environment. 
 
 Please work in pairs through all the notebooks in this particular order:
 
