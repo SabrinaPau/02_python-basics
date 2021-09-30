@@ -9,7 +9,8 @@ Activate your nf_base environment.
 
 Please work in pairs through all the notebooks in this particular order:
 
-[Coding best practices](./Coding_best_practices.ipynb)
+**Intro:**
+1. [Coding best practices](./Coding_best_practices.ipynb)
 
 **Basics:**
 1. [Numeric Variable Types](./Basics/1_Numeric_Variable_Types.ipynb)
